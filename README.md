@@ -1,16 +1,16 @@
 # ラベルなしグラフの数え上げ
 
+Qitta記事用。
 
+## 記事リンク
 
+[異なる形のグラフはいくつあるか？～ラベルなしグラフの数え上げ ゆるふわ編～](https://qiita.com/BinomialSheep/items/50c4473ebfbbb5d03aa8)
 
-## 解説（TODO：QIitaのリンクを貼る）
-
-
-## 
-- naiveCount.py：定義通りにラベルなしグラフの個数を数え上げ
-- nxCount.py：同型性判定をNetworkX任せに変更
+## 各ファイル
+- naiveCount.py：定義通りにラベルなしグラフの個数を数え上げ（N=6まで）
+- nxCount.py：同型性判定をNetworkX任せに変更（N=7まで）
 - plotCounts：上界、下界、実際の値のプロット
-- steal.py：OEISにあった高速数え上げコードを窃盗
+- steal.py：OEISにあった高速数え上げコードを窃盗（N=100くらいまで）
 - steal2.py：steal.pyを紐解く
 
 ## 必要な外部ライブラリ
