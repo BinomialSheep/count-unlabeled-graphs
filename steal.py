@@ -1,6 +1,6 @@
 """
 https://oeis.org/A000088
-stealed by Chai Wah Wu, Jul 02 2024
+by Chai Wah Wu, Jul 02 2024
 """
 
 import time

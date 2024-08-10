@@ -3,8 +3,15 @@
 
 
 
-## TODO：QIitaのリンクを貼る
+## 解説（TODO：QIitaのリンクを貼る）
 
+
+## 
+- naiveCount.py：定義通りにラベルなしグラフの個数を数え上げ
+- nxCount.py：同型性判定をNetworkX任せに変更
+- plotCounts：上界、下界、実際の値のプロット
+- steal.py：OEISにあった高速数え上げコードを窃盗
+- steal2.py：steal.pyを紐解く
 
 ## 必要な外部ライブラリ
 matplotlib, sympy, networkx
